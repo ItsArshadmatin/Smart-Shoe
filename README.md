@@ -187,11 +187,12 @@ Includes algorithms, experiments, and testing results.
 
 Smart Shoe System developed as an embedded wearable project  
 Department of Electronics & Telecommunication Engineering
- Arshad Shaikh 
- Om Ingle 
- Aryavart Dahenkar
- Prachi Untwale 
 
+ **-Arshad Shaikh 
+ -Om Ingle 
+ -Aryavart Dahenkar
+ -Prachi Untwale 
+**
 ---
 
 ## 📜 License
